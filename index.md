@@ -8,6 +8,7 @@ title: CV
 ---
 # Table of Contents
 
+<!-- - [Table of Contents](#table-of-contents) -->
 - [Table of Contents](#table-of-contents)
 - [Experience](#experience)
 - [Education](#education)
