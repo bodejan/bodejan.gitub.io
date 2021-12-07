@@ -8,4 +8,6 @@ theme: jekyll-theme-minimal
 plugins:
   #for emojies
   - jemoji
+  #favicon
+  - jekyll-seo-tag
 #- jekyll-remote-theme
