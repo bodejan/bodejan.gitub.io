@@ -7,11 +7,11 @@ layout: default
 --- -->
 # Table of Contents
 
-- [Experience](#experience)
-- [Education](#education)
-- [Volunteering](#volunteering)
-- [Awards](#awards)
-- [Languages](#languages)
+> - [Experience](#experience)
+> - [Education](#education)
+> - [Volunteering](#volunteering)
+> - [Awards](#awards)
+> - [Languages](#languages)
 
 ---
 
