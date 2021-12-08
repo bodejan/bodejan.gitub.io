@@ -1,57 +1,113 @@
 ---
 layout: default
-title: CV
 ---
 
-[Link](content/experience/CAS.md) to CAS entry with custom layout
+<!-- [Link](content/experience/CAS.md) to CAS entry with custom layout
 
----
+--- -->
 # Table of Contents
 
-<!-- - [Table of Contents](#table-of-contents) -->
 - [Table of Contents](#table-of-contents)
 - [Experience](#experience)
-- [Education](#education)
-- [Volunteer experience](#volunteer-experience)
-- [Languages](#languages)
-- [Awards](#awards)
+<!--   - [> At *Grupotec Renewables and Consulting Services*, I mostly assisted in customer acquisition and the creation of reports for real estate. The internship was part of the ESF-funded program  *Integration through Exchange* by [*Network Event Berlin*](https://network-eventberlin.de/). In addition to the internship, the program includes an intense preparation and follow-up period, as well as a language course.](#-at-grupotec-renewables-and-consulting-services-i-mostly-assisted-in-customer-acquisition-and-the-creation-of-reports-for-real-estate-the-internship-was-part-of-the-esf-funded-program--integration-through-exchange-by-network-event-berlin-in-addition-to-the-internship-the-program-includes-an-intense-preparation-and-follow-up-period-as-well-as-a-language-course)
+ -->- [Education](#education)
 
 ---
 
 # Experience
-
-> ## Title
+<!-- This is only a template -->
+<!-- > ## Title
 >
 > ### Company | Type
 > ### Date | Duration
 > ### :pushpin:  *Location*
 >
-> "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+> "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum." -->
 
-> ## Title
+> ## Bachelor's Thesis
 >
-> ### Company | Type
-> ### Date | Duration
-> ### :pushpin:  *Location*
+> ### [CAS Software AG](https://www.cas.de/de/start.html) | Thesis Student
+> ### April 2021 - September 21 | Full-time
+> ### :pushpin:  *Karlsruhe, Germany*
 >
-> "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-
-> ## Title
+> Bachelor thesis in cooperation with CAS Software AG and *Karlsruhe Service Research Institute* at *KIT* the with the title *Towards Designing Explainable Constraint-based Expert Systems*.
 >
-> ### Company | Type
-> ### Date | Duration
-> ### :pushpin:  *Location*
+> Following the *Design Science Research* approach, I conducted a requirement analysis based on a literature review and expert interviews. Based on my findings, I derived *Design Requirements* and *Design Principles* and developed a working explanation subsystem for the [CAS Configurator Merlin](https://www.cas-merlin.de/en/). In the third part, I evaluated the prototype and the *Design Principles* in two experiments and collected further feedback from users.
 >
-> "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+>The full thesis is available at [Zenodo](https://zenodo.org/record/5634105).
+>
 
 
+> ## Student Teaching Assistant - Mathematics I
+>
+> ### [Karlsruher Institute of Technology (KIT)](https://www.kit.edu/english/) | Working Student
+> ### October 2020 - April 2021 | Part-time
+> ### :pushpin:  *Karlsruhe, Germany*
+>
+> As a student teaching assistant, I assisted the lecture *Mathematics I* by conducting two weekly seminars for over 30 undergraduate students to deepen the knowledge they obtained in the lecture.
+>
+> During these tutorials, I recapitulated learned contents and showed them how to apply learned theorems in exercises.
+
+
+> ##  Project Development in Real Estate
+>
+> ### [NORD PROJECT GBI Beteiligungsgesellschaft mbH](https://www.np-immobilien.de/) | Intership
+> ### February 2018 - April 2018 | Full-time
+> ### :pushpin:  *Hamburg, Germany*
+>
+> As an intern for one of the biggest real estate developers in Germany, I supported the management and employees in various areas including, acquisition, market research, project management, and project development. 
+
+
+> ##  Intern Consulting and Renewables
+>
+> ### [Grupotec](https://grupotec.es/?lang=en) | Intership
+> ### November 2018 - December 2017 | Full-time
+> ### :pushpin:  *Sevilla, Spain*
+>
+> At *Grupotec Renewables and Consulting Services*, I mostly assisted in customer acquisition and the creation of reports for real estate. The internship was part of the [ESF](https://ec.europa.eu/esf/home.jsp)-funded program  *Integration through Exchange* by [*Network Event Berlin*](https://network-eventberlin.de/). In addition to the internship, the program includes an intense preparation and follow-up period, as well as a language course.
 ---
 
 # Education
+> ##  [Universitat Politècnica de Catalunya (UPC)](https://www.upc.edu/ca)
+>
+> ### Informatics Engineering | Bachelor of Science
+> ### September 2021 - January 2022 | Erasmus Student
+> ### :pushpin:  *Barcelona*
+>
+> At the faculty for informatics at UPC I participated in the following courses: Viability of Business Projects, Digital Strategies for Organizations and Data Mining.  Furthermore, I took advantage of the diverse cultural offers within and outside of the university context to develop my soft- and language skills.
+
+
+> ##  [Karlsruher Institute of Technology (KIT)](https://www.kit.edu/english/)
+>
+> ### Industrial Engineering and Management | Bachelor of Science
+> ### September 2018 - June 2022 | Student
+> ### :pushpin:  *Karlsruhe*
+>
+> The degree of *Industrial Engineering and Management* at KIT allows students a high degree of flexibility. After one and a half years of foundational studies, I specialized in *Information Systems Management*. 
+
+
+> ##  [Sophie-Scholl-Schule](https://www.sophie-scholl-schule.eu/)
+>
+> ### High School | High School Diploma
+> ### 2010 - 2017 | Student
+> ### :pushpin:  *Berlin*
+>
+> During high school, I had a special focus on MINT subjects, as well as Mathematics and Geography. Additionally, I participated in exchange programs with the *Jiaodafuzhong* School in Beijing and the *Colegio Alemán de Sevilla*.
+> 
+> I graduated with a final score of **1.2**. 
+> 
+
+> ##  [Otaki College](https://www.otakicollege.school.nz/)
+>
+> ### High School
+> ### June 2014 - December 2012 | Exchange Student
+> ### :pushpin:  *Otaki, New Zealand*
+>
+> As a high school student, I spend one semester at the Otaki College in New Zealand to explore other cultures and improve my English skills.
 
 ---
 
-# Volunteer experience
+<!-- # Volunteer experience
 
 ---
 
@@ -62,15 +118,4 @@ title: CV
 # Awards
 
 ---
-
-<!-- # MD advanced syntax
-
-Blockquotes
-
-> #### The quarterly results look great!
->
-> - Revenue was off the chart.
-> - Profits were higher than ever.
->
->  *Everything* is going according to **plan**. -->
-
+ -->
