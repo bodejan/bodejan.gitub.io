@@ -178,29 +178,25 @@ layout: default
 
 > ##  German
 >
-> ### C2
-> ### Native
+> ### C2 | Native
 
 ---
 
 > ##  English
 >
-> ### C1
-> ### DAAD Language Test, TOEFL iBT (107)
+> ### C1 | DAAD Language Test, TOEFL iBT (107)
 
 ---
 
 > ##  Spanish
 >
-> ### C1
-> ### KIT Language Certificate
+> ### C1 | KIT Language Certificate
 
 ---
 
 > ##  Catalan
 >
-> ### A2
-> ### UPC Language Certificate
+> ### A2 | UPC Language Certificate
 
 ---
 
