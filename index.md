@@ -184,7 +184,7 @@ layout: default
 
 > ##  English
 >
-> ### C1 | DAAD Language Test, TOEFL iBT (107)
+> ### C1 | DAAD Language Certificate, TOEFL iBT (107)
 
 ---
 
