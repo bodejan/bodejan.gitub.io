@@ -12,6 +12,7 @@ layout: default
 > - [Volunteering](#volunteering)
 > - [Awards](#awards)
 > - [Languages](#languages)
+> - [Programing Languages and Frameworks](#programing-languages-and-frameworks)
 
 ---
 
@@ -200,4 +201,52 @@ layout: default
 
 ---
 
+# Programing Languages and Frameworks
 
+> ##  Backend
+>
+> ### Java
+>
+> ### Python
+
+---
+
+> ##  Frontend
+>
+> ### Java Script
+>
+> ### HTML
+>
+> ### CSS
+>
+> ### Markdown
+ 
+---
+
+> ##  Frameworks
+>
+> ### FlaskSQLAlchemy
+>
+> ### Vue.js
+>
+> ### Angular.js
+ 
+---
+
+> ##  References
+>
+> ### Medata 
+> 
+> ### [https://github.com/kevinkrs7/medata](https://github.com/kevinkrs7/medata)
+>
+> Medata is a chrome plugin that helps researchers to collect and contribute insights to a paper listed in the [ACM Digital Library](https://dl.acm.org/). The plugin was developed during a team project at the [Institute for Information Systems and Marketing](https://im.iism.kit.edu/) at [Karlsruher Institute of Technology (KIT)](https://www.kit.edu/english/).
+
+--- 
+
+> ### Ladderly
+> 
+> ### [https://github.com/bodejan/ladder.ly](https://github.com/bodejan/ladder.ly)
+>
+> Ladderly is a working prototype for web-based automated aggregation and visualization of laddering interview data and was developed during a seminar work at [Institute for Information Systems and Marketing](https://im.iism.kit.edu/) at [Karlsruher Institute of Technology (KIT)](https://www.kit.edu/english/).
+
+--- 
