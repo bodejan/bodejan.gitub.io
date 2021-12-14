@@ -205,31 +205,25 @@ layout: default
 
 > ##  Backend
 >
-> ### Java
->
-> ### Python
+> - Java
+> - Python
 
 ---
 
 > ##  Frontend
 >
-> ### Java Script
->
-> ### HTML
->
-> ### CSS
->
-> ### Markdown
+> - Java Script
+> - HTML
+> - CSS
+> - Markdown
  
 ---
 
 > ##  Frameworks
 >
-> ### FlaskSQLAlchemy
->
-> ### Vue.js
->
-> ### Angular.js
+> - FlaskSQLAlchemy
+> - Vue.js
+> - Angular.js
  
 ---
 
