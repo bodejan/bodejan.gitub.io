@@ -135,7 +135,7 @@ layout: default
 > ### October 2018 - March 2020
 > ### :pushpin:  Karlsruhe, Germany
 >
-> The PionierGarge e.V. is a student club for entrepreneurship at KIT. During my time I worked in the department for finance and external relations. 
+> The PionierGarge e.V. is a student club for entrepreneurship at KIT. In my first year, I worked in the department for finance. As a project manager within the department of external relations, I was responsible for the alumni-management. Furthermore, I participated in the self-organized [StartUp tour to China in 2019](http://tour.pioniergarage.de/).
 
 ---
 
@@ -145,13 +145,13 @@ layout: default
 > ### October 2019
 > ### :pushpin:  Karlsruhe, Germany
 >
-> During the freshman orientation-week, I was responsible for the planing and execution of multiple 'welcome-events'. 
+> During the freshman orientation week, I was responsible for the planning and execution of multiple 'welcome-events'. 
 
 ---
 
 # Awards
 
-> ##  Huaswei Scholarship
+> ##  Huawei Scholarship
 >
 > ### [HUAWEI TECHNOLOGIES Deutschland GmbH](https://www.huawei.com/en/)
 >
